@@ -22,8 +22,10 @@ Here's a walkthrough of implemented user stories:
 
 ## Screenshots
 
-### Home Page - Mobile Screen & Web Screen
+### Home Page - Mobile Screen 
 ![Mobile Screen](https://user-images.githubusercontent.com/78334822/186944828-09c65733-ade9-4c21-9456-50b8b73e3e69.png)
+
+### Home Page - Web Screen
 ![Web screen](https://user-images.githubusercontent.com/78334822/186944904-5c09e730-cd17-490d-ba27-ab5b7a0035ea.png)
 
 
