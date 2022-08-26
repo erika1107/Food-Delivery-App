@@ -28,13 +28,14 @@ Here's a walkthrough of implemented user stories:
 ### Home Page - Mobile Screen 
 ![Mobile Screen](https://user-images.githubusercontent.com/78334822/186944828-09c65733-ade9-4c21-9456-50b8b73e3e69.png)
 
+### Add To Cart Screen
+![Cart](https://user-images.githubusercontent.com/78334822/186944960-9038c243-8b7e-4e6a-a40f-02677e119e35.png)
 
 ### Admin Account - add new item
 ![Admin account](https://user-images.githubusercontent.com/78334822/186944932-15eecfc9-80d1-400d-a802-ab852c7797b1.png)
 
 
-### Add To Cart Screen
-![Cart](https://user-images.githubusercontent.com/78334822/186944960-9038c243-8b7e-4e6a-a40f-02677e119e35.png)
+
 
 
 
