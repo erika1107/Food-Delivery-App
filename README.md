@@ -22,12 +22,11 @@ Here's a walkthrough of implemented user stories:
 
 ## Screenshots
 
-### Mobile Screen & Web Screen
+### Home Page - Mobile Screen & Web Screen
 
 
 ### Admin Account
 
-### Home Page
 
 
 ### Add To Cart Screen
