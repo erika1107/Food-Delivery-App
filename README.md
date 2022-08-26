@@ -23,7 +23,7 @@ Here's a walkthrough of implemented user stories:
 ## Screenshots
 
 ### Home Page - Mobile Screen & Web Screen
-<img src='scrrenshoots/Mobile Screen.png' title='Mobile Screen' width='' alt='Mobile Screen' />
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/erika1107/Food-Delivery-App/blob/main/screenshots/Mobile%20Screen.png))
 
 
 ### Admin Account - add new item
