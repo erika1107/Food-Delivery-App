@@ -23,6 +23,7 @@ Here's a walkthrough of implemented user stories:
 ## Screenshots
 
 ### Home Page - Mobile Screen & Web Screen
+<img src='scrrenshoots/Mobile Screen.png' title='Mobile Screen' width='' alt='Mobile Screen' />
 
 
 ### Admin Account - add new item
