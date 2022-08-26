@@ -23,7 +23,7 @@ Here's a walkthrough of implemented user stories:
 ## Screenshots
 
 ### Home Page - Mobile Screen & Web Screen
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/erika1107/Food-Delivery-App/blob/main/screenshots/Mobile%20Screen.png))
+![Mobile Screen](https://user-images.githubusercontent.com/78334822/186944828-09c65733-ade9-4c21-9456-50b8b73e3e69.png)
 
 
 ### Admin Account - add new item
