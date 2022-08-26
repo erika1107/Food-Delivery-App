@@ -19,3 +19,18 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+## Screenshots
+
+**mobile screen**
+
+
+**web screen**
+
+
+**admin account**
+
+**Home Page**
+
+
+
