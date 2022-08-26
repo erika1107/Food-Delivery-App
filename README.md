@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 ### Home Page - Mobile Screen & Web Screen
 
 
-### Admin Account
+### Admin Account - add new item
 
 
 
