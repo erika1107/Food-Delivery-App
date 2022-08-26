@@ -22,15 +22,17 @@ Here's a walkthrough of implemented user stories:
 
 ## Screenshots
 
-**mobile screen**
+#mobile screen & web screen
 
 
-**web screen**
+#Admin Account
+
+#Home Page
 
 
-**admin account**
+#Add To Cart Screen
 
-**Home Page**
+#Login screen
 
 
 
