@@ -25,14 +25,14 @@ Here's a walkthrough of implemented user stories:
 ### Mobile Screen & Web Screen
 
 
-# Admin Account
+### Admin Account
 
-# Home Page
+### Home Page
 
 
-# Add To Cart Screen
+### Add To Cart Screen
 
-# Login screen
+### Login screen
 
 
 
